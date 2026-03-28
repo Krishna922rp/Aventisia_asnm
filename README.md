@@ -1,7 +1,53 @@
-# Aventisia Knowledge Base UI
+# 🚀 React UI Assignment – Knowledge Base Dashboard
 
-A premium, modern React application for managing external knowledge bases seamlessly. Built with a focus on polished UI, responsive design, and smooth user interactions. This application allows users to orchestrate vector stores, AI models, and document knowledge bases from a centralized dashboard.
+This project is a React-based UI implementation built from a Figma design as part of a frontend assignment. The goal was to replicate the given designs as closely as possible while maintaining clean code, reusable components, and a scalable structure.
 
+---
+
+## 🎯 Objective
+
+The purpose of this assignment was to:
+
+- Convert a Figma design into a pixel-accurate UI
+- Build a responsive and clean React application
+- Follow component-based architecture
+- Maintain readable and maintainable code
+
+---
+
+## 🖥️ Screens Implemented
+
+### 1. Knowledge Base Home Screen
+- Displays a grid of knowledge base cards
+- Includes sidebar navigation and header
+- Search functionality for filtering items
+
+### 2. Create New Drawer (Popup)
+- Opens when clicking the **"Create New"** button
+- Allows users to create or edit a knowledge base
+- Includes form inputs and validation
+
+---
+
+## ✨ Features
+
+- **Pixel-accurate UI implementation** based on Figma
+- **Responsive layout** (desktop-friendly and adaptable)
+- **Reusable components** (Header, Sidebar, Cards, Drawer, Layout)
+- **Search functionality** (client-side filtering)
+- **Interactive "Create New" button**
+- **Clean and modern UI** using Tailwind CSS
+- **Smooth transitions and UI interactions**
+
+---
+
+
+## 📦 Setup Instructions
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
 
 
 <img width="2854" height="1446" alt="image" ![](image.png) />
